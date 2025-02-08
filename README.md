@@ -25,11 +25,11 @@ A Terraform Cloud API token
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/terraform-tfe-setup.git
+git clone https://github.com/viktorsp054/Manage-TFC.git
 cd terraform-tfe-setup
 2. Configure Terraform Cloud Token
 Export your Terraform Cloud API token 
-export TFE_TOKEN="your-tfc-api-token"
+export TFE_TOKEN="your-tfe-api-token"
 3. Initialize Terraform
 terraform init
 4. Plan and Apply the Configuration
